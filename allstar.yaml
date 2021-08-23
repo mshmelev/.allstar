@@ -5,3 +5,4 @@ optConfig:
   - distroless
   - kaniko
   - skaffold
+  - test8
